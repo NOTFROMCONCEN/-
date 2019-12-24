@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/lv_light_setting"
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:background="@drawable/shaper_desk_top_show"
+        android:gravity="center_vertical|center_horizontal|left"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:text="亮度控制" />
+    </LinearLayout>
+
+</LinearLayout>
