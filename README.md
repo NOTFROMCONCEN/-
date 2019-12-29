@@ -3,6 +3,8 @@
 >
 > 博客：https://naiyouhuameitang.club/
 >
+> 介绍：https://naiyouhuameitang.club/start-page.html
+>
 > 发行版下载：https://gitee.com/rabbitTang_admin/dk_desktop/releases
 
 概念图：
