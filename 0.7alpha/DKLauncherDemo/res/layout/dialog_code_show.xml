@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/iv_code_show"
+        android:layout_width="150sp"
+        android:layout_height="50sp"
+        android:src="@drawable/index_add_apps" />
+
+    <EditText
+        android:id="@+id/et_code_set"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_margin="50sp"
+        android:ems="10"
+        android:hint="请输入验证码" >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
