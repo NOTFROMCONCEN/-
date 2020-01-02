@@ -1,5 +1,5 @@
 ## DK桌面
-> 如果需要登陆才能下载的话，请点击：https://naiyouhuameitang.club/archives/94/
+> 免登录下载：https://naiyouhuameitang.club/archives/94/
 >
 > 博客：https://naiyouhuameitang.club/
 >
